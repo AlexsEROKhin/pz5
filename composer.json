@@ -1,0 +1,17 @@
+{
+    "name": "okyer/guestbook-oop-mvc-base",
+    "autoload": {
+        "psr-4": {
+            "Okyer\\GuestbookOopMvcBase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexsEROKhin",
+            "email": "o.k.yerokhin@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
