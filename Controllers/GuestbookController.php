@@ -1,4 +1,6 @@
 <?php
+use \guestbook\Controllers\GuestbookController;
+$guestbook = new GuestbookController();
 // TODO 1: PREPARING ENVIRONMENT: 1) session 2) functions
 session_start();
 
